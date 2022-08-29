@@ -12,7 +12,7 @@ https-certificate {
     set validity "365";
 }
 
-set sample_name "vnexpress"
+set sample_name "vnexpress";
 set sleeptime "60000";
 set jitter    "20";
 set useragent "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko";
